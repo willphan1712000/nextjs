@@ -33,3 +33,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# prisma schema
+.env
+
+
+# config
+tsconfig.json
+tailwind.config.ts
+
+.react-email/
